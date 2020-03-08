@@ -1,0 +1,28 @@
+.button {
+    background-color: #ff0000;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+.button:hover{
+    background-color: #dd0000;
+}
+
+.inner-text{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+#text 
+{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
